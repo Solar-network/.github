@@ -17,7 +17,7 @@ It operates via a Delegated Proof of Stake consensus and is secured by 53 voted-
 - [Ledger App](https://github.com/solar-network/ledger-app-solar) - The Solar Ledger App
 - [Peers](https://github.com/solar-network/peers) - The repository to discover seed peers on the Solar mainnet and testnet
 - [Python Client](https://github.com/solar-network/python-client) - A Python Client for Solar Core
-- [Python Crypto](https://github.com/solar-network/python-client) - The Python Crypto package for Solar Core
+- [Python Crypto](https://github.com/solar-network/python-crypto) - The Python Crypto package for Solar Core
 - [Swap Contract](https://github.com/solar-network/swap-contract) - Audited Swap Contracts for the Swipe to Solar mainnet migration
 - [Translations](https://github.com/solar-network/translations) - A general repository for app translations for Solar projects
 - [Website](https://github.com/solar-network/website) - The Solar Blockchain Foundation Website
