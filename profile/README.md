@@ -1,6 +1,6 @@
 
 <p align="center">
-	<img src="./banner.png" />
+	<img src="../banner.png" />
 </p>
 
 Welcome to the Solar Network official GitHub repositories.
@@ -20,11 +20,10 @@ It operates via a Delegated Proof of Stake consensus and is secured by 53 voted-
 - [Python Crypto](https://github.com/solar-network/python-crypto) - The Python Crypto package for Solar Core
 - [Swap Contract](https://github.com/solar-network/swap-contract) - Audited Swap Contracts for the Swipe to Solar mainnet migration
 - [Translations](https://github.com/solar-network/translations) - A general repository for app translations for Solar projects
-- [Website](https://github.com/solar-network/website) - The Solar Blockchain Foundation Website
 
 ### 🔧 Contributing to our ecosystem
 
-- [Contributing](./CONTRIBUTING.md)
-- [Code of conduct](./CODE_OF_CONDUCT.md)
-- [Security](./SECURITY.md)
+- [Contributing](../CONTRIBUTING.md)
+- [Code of conduct](../CODE_OF_CONDUCT.md)
+- [Security](../SECURITY.md)
 
