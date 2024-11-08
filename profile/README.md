@@ -4,7 +4,7 @@
 </p>
 
 Welcome to the official Solar Network GitHub repositories.
-Solar is a fully decentralized, open-source blockchain built from core blockchain components.
+Solar is a fully decentralised, open-source blockchain built from core blockchain components.
 It operates on a Delegated Proof of Stake (DPoS) consensus model and is secured by 53 community-elected Block Producers who validate transactions and create blocks.
 
 ### 🔎 Navigate through the Solar Github repositories
